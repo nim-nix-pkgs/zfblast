@@ -157,11 +157,11 @@
         "uri3-v0_1_4": "uri3-v0_1_4"
       },
       "locked": {
-        "lastModified": 1647060412,
-        "narHash": "sha256-qjq92Ci96weudYoJiK0xQ7PJbSNoDXk+RbZTH5gOEWE=",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
         "owner": "nim-nix-pkgs",
         "repo": "uri3",
-        "rev": "abc5daaac77303310655dcd8124091a275430a08",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
         "type": "github"
       },
       "original": {
@@ -184,13 +184,20 @@
         "src-uri3-0_1_4": "src-uri3-0_1_4"
       },
       "locked": {
-        "narHash": "sha256-WJGa/TEPz5p/lYoJ08LTomB2jlta1j6A2kdm1KODhC4=",
-        "path": "./0_1_4",
-        "type": "path"
+        "dir": "0_1_4",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "uri3",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
+        "type": "github"
       },
       "original": {
-        "path": "./0_1_4",
-        "type": "path"
+        "dir": "0_1_4",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "uri3",
+        "type": "github"
       }
     },
     "uri3-master": {
@@ -206,13 +213,20 @@
         "src-uri3-master": "src-uri3-master"
       },
       "locked": {
-        "narHash": "sha256-u6XAZCpjybMA8xD+xT1ZtbjMx8rWeqGt4TCe2yWFxmg=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "uri3",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "uri3",
+        "type": "github"
       }
     },
     "uri3-v0_1_1": {
@@ -228,13 +242,20 @@
         "src-uri3-v0_1_1": "src-uri3-v0_1_1"
       },
       "locked": {
-        "narHash": "sha256-4MoYbcoWmvOJnB/VJ8SsvhLCf7/vlPwZ8S2OIakBqHg=",
-        "path": "./v0_1_1",
-        "type": "path"
+        "dir": "v0_1_1",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "uri3",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_1",
-        "type": "path"
+        "dir": "v0_1_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "uri3",
+        "type": "github"
       }
     },
     "uri3-v0_1_3": {
@@ -250,13 +271,20 @@
         "src-uri3-v0_1_3": "src-uri3-v0_1_3"
       },
       "locked": {
-        "narHash": "sha256-ADyQQn8hCp93hLh6YYhGUkDdrjrAXugo74bZK5ltGy0=",
-        "path": "./v0_1_3",
-        "type": "path"
+        "dir": "v0_1_3",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "uri3",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_3",
-        "type": "path"
+        "dir": "v0_1_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "uri3",
+        "type": "github"
       }
     },
     "uri3-v0_1_4": {
@@ -272,13 +300,20 @@
         "src-uri3-v0_1_4": "src-uri3-v0_1_4"
       },
       "locked": {
-        "narHash": "sha256-7WcmcPFqm0FV32SmGvGFSzjjZ0JJKjDouukhKILYWHQ=",
-        "path": "./v0_1_4",
-        "type": "path"
+        "dir": "v0_1_4",
+        "lastModified": 1647112131,
+        "narHash": "sha256-xjE2RAKe13DXB0fhxOp8aXD6NnWGHee0IOHuDC/J8v8=",
+        "owner": "nim-nix-pkgs",
+        "repo": "uri3",
+        "rev": "6d6e90b0c8302e5cc3f2a225664716af3361c432",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_4",
-        "type": "path"
+        "dir": "v0_1_4",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "uri3",
+        "type": "github"
       }
     }
   },
