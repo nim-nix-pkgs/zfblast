@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-zfblast-v0_1_6-stable.flake = false;
+  inputs.src-zfblast-v0_1_6-stable.ref   = "refs/tags/v0.1.6-stable";
   inputs.src-zfblast-v0_1_6-stable.owner = "zendbit";
-  inputs.src-zfblast-v0_1_6-stable.ref   = "v0_1_6-stable";
   inputs.src-zfblast-v0_1_6-stable.repo  = "nim.zfblast";
   inputs.src-zfblast-v0_1_6-stable.type  = "github";
   
