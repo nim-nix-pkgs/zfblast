@@ -38,7 +38,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "sha1": "sha1",
-        "src-zfblast-master": "src-zfblast-master",
+        "src-zfblast-v0_2_6": "src-zfblast-v0_2_6",
         "uri3": "uri3"
       }
     },
@@ -103,19 +103,19 @@
         "type": "github"
       }
     },
-    "src-zfblast-master": {
+    "src-zfblast-v0_2_6": {
       "flake": false,
       "locked": {
-        "lastModified": 1660712906,
-        "narHash": "sha256-TmT1v10HRnBpS3Uph9c81/kvRtzBbN0k3kI3D6+sQb0=",
+        "lastModified": 1660616591,
+        "narHash": "sha256-Sd7T1FdWWKmP8+Yo8wRiv0N87PPi5v1F85HBbkFFMJY=",
         "owner": "zendbit",
         "repo": "nim.zfblast",
-        "rev": "5698f9e50d21d5c223f3ae1cdf33ef9cc4380bd2",
+        "rev": "601a99844663e58aadec969378f926bdcfbb4559",
         "type": "github"
       },
       "original": {
         "owner": "zendbit",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.6",
         "repo": "nim.zfblast",
         "type": "github"
       }
